@@ -1,5 +1,5 @@
 # Assessment-NewHomeSource-Search
-Note: I tried to run my tests on local, tests we failing because the website has the bot (Captcha) Protection.
+Note: I tried to run my tests on local, tests were failing because the website has the bot (Captcha) Protection.
 
 #QA Assessment for NewHomeSource Search Feature
 
